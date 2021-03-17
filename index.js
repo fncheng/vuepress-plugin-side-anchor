@@ -1,1 +1,3 @@
-module.export = {};
+module.export = {
+    globalUIComponents: 'SideAnchor'
+};
