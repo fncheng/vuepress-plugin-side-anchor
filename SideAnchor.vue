@@ -1,6 +1,6 @@
 <template>
     <section class="side-anchor">
-        <ul>
+        <ul v-show="list.length > 0">
             <li 
                 v-for="(item, index) in list" 
                 :key="item.content" 
