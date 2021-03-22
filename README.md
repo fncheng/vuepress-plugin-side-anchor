@@ -20,7 +20,6 @@ yarn add vuepress-plugin-side-anchor -D
 npm i vuepress-plugin-side-anchor -D
 ```
 
-# 使用
 在 .vuepress/config.js 添加如下配置。
 ```js
 module.exports = {
@@ -31,3 +30,5 @@ module.exports = {
   ]
 }
 ```
+
+> [Github地址，欢迎交流](https://github.com/LRCong/vuepress-plugin-side-anchor)

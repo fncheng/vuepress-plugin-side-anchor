@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-side-anchor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "一款 vuePress 插件，自动为页面添加侧边锚点",
   "main": "index.js",
   "scripts": {
