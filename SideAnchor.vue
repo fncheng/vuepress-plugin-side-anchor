@@ -3,7 +3,7 @@
         <ul v-show="list.length > 0">
             <li 
                 v-for="(item, index) in list" 
-                :key="item.href" 
+                :key="index" 
                 :style="{ 'padding-left': item.prefix }">
                 <a 
                     :href="item.href" 
