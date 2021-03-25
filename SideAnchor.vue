@@ -126,7 +126,7 @@ ul .side-anchor-link:hover {
 .side-anchor-link.active {
     color: #0277bd;
 }
-::-webkit-scrollbar { 
+.side-anchor::-webkit-scrollbar { 
     width: 0 
 }
 @media (max-width: 1200px) {
