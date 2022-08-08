@@ -32,7 +32,7 @@ export default {
             if (this.$page.title === this.title && this.list.length > 0) return;
             this.title = this.$page.title;
 
-            let dom_list = document.querySelectorAll('.header-anchor');
+            let dom_list = document.querySelectorAll('h2 .header-anchor,h3 .header-anchor');
             if (dom_list.length === 0) {
                 this.list = [];
                 return;       
