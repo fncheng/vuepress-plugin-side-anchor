@@ -101,7 +101,7 @@ export default {
     right: 1rem;
     top: 120px;
     z-index: 1;
-    width: 8rem;
+    width: 12.5rem;
     max-height: calc(100% - 135px);
     overflow: auto;
     border-left: 0.5rem #2c3e50 solid;
